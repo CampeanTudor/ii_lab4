@@ -1,0 +1,10 @@
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l4\ex2\l4_ex2_formApp\l4_ex2_formApp\bin\Debug\l4_ex2_formApp.exe.config
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l4\ex2\l4_ex2_formApp\l4_ex2_formApp\bin\Debug\l4_ex2_formApp.exe
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l4\ex2\l4_ex2_formApp\l4_ex2_formApp\bin\Debug\l4_ex2_formApp.pdb
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l4\ex2\l4_ex2_formApp\l4_ex2_formApp\obj\Debug\l4_ex2_formApp.csprojAssemblyReference.cache
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l4\ex2\l4_ex2_formApp\l4_ex2_formApp\obj\Debug\l4_ex2_formApp.Form1.resources
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l4\ex2\l4_ex2_formApp\l4_ex2_formApp\obj\Debug\l4_ex2_formApp.Properties.Resources.resources
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l4\ex2\l4_ex2_formApp\l4_ex2_formApp\obj\Debug\l4_ex2_formApp.csproj.GenerateResource.cache
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l4\ex2\l4_ex2_formApp\l4_ex2_formApp\obj\Debug\l4_ex2_formApp.csproj.CoreCompileInputs.cache
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l4\ex2\l4_ex2_formApp\l4_ex2_formApp\obj\Debug\l4_ex2_formApp.exe
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l4\ex2\l4_ex2_formApp\l4_ex2_formApp\obj\Debug\l4_ex2_formApp.pdb

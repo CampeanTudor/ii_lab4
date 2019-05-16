@@ -1,0 +1,7 @@
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l4\exempleConsoleApp\exempleConsoleApp\bin\Debug\exempleConsoleApp.exe.config
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l4\exempleConsoleApp\exempleConsoleApp\bin\Debug\exempleConsoleApp.exe
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l4\exempleConsoleApp\exempleConsoleApp\bin\Debug\exempleConsoleApp.pdb
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l4\exempleConsoleApp\exempleConsoleApp\obj\Debug\exempleConsoleApp.csprojAssemblyReference.cache
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l4\exempleConsoleApp\exempleConsoleApp\obj\Debug\exempleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l4\exempleConsoleApp\exempleConsoleApp\obj\Debug\exempleConsoleApp.exe
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l4\exempleConsoleApp\exempleConsoleApp\obj\Debug\exempleConsoleApp.pdb
